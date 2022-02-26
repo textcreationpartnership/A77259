@@ -1,0 +1,249 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devills white boyes: or, A mixture of malicious malignants, with their much evill, and manifold practises against the kingdome and Parliament. VVith a bottomlesse sack-full of knavery, popery, prelacy, policy, trechery, malignant trumpery, conspiracies, and cruelties, filled to the top by the malignants, laid on the shoulders of time, and now by time emptied forth, and powred out, to shew the truth, and shame the Devill. Time now at the last poures out much knavery. The Devill holds down fast to hinder the discovery. Malignants are the Divells agents still, the sack is England, which they strive to fil with misery and mischief, and this sack full stufft, is laid upon times aged back; time poures it out now in an angry mood, that all their knaveries may be understood.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77259</idno>
+            <idno type="STC">Wing B4261</idno>
+            <idno type="STC">Thomason E14_11</idno>
+            <idno type="STC">ESTC R6322</idno>
+            <idno type="EEBO-CITATION">99872968</idno>
+            <idno type="PROQUEST">99872968</idno>
+            <idno type="VID">154834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77259)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154834)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 3:E14[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devills white boyes: or, A mixture of malicious malignants, with their much evill, and manifold practises against the kingdome and Parliament. VVith a bottomlesse sack-full of knavery, popery, prelacy, policy, trechery, malignant trumpery, conspiracies, and cruelties, filled to the top by the malignants, laid on the shoulders of time, and now by time emptied forth, and powred out, to shew the truth, and shame the Devill. Time now at the last poures out much knavery. The Devill holds down fast to hinder the discovery. Malignants are the Divells agents still, the sack is England, which they strive to fil with misery and mischief, and this sack full stufft, is laid upon times aged back; time poures it out now in an angry mood, that all their knaveries may be understood.</title>
+                  <author>Brathwaite, Richard, 1588?-1673, attributed author.</author>
+                  <author>Taylor, John, 1580-1653, attributed author.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R.S.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 26. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Ascribed in the Wing catalogue to Richard Brathwaite.</note>
+                  <note>Also attributed to John Taylor.</note>
+                  <note>An incentive against Royalists, Catholics, and adherents of the Church of England.</note>
+                  <note>Engraved t.p.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154834:1"/>
+            <pb facs="tcp:154834:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Devills White Boyes:</hi> OR, A mixture of malicious Malignants, with their much evill, and manifold practiſes againſt the Kingdome and Parliament.</p>
+            <p>VVith a bottomleſſe Sack-full of Knavery, Popery, Prelacy, Policy, Trechery, Malignant Trumpery, Conſpiracies, and Cruelties, filled to the top by the Malig<g ref="char:EOLhyphen"/>nants, laid on the ſhoulders of <hi>Time,</hi> and now by <hi>Time</hi> emptied forth, and powred out, to ſhew the Truth, and ſhame the Devill.</p>
+            <figure>
+               <figDesc>allegorical depiction of Time and the Devil</figDesc>
+               <lg>
+                  <l>
+                     <hi>Time</hi> now at the laſt</l>
+                  <l>poures out much knavery.</l>
+                  <l>The Devill holds down faſt</l>
+                  <l>to hinder the diſcovery.</l>
+               </lg>
+            </figure>
+            <q>
+               <l>Malignants are the Divells Agents ſtill,</l>
+               <l>The Sack is <hi>England,</hi> which they ſtrive to fill</l>
+               <l>With miſery and miſchief, and this Sack</l>
+               <l>Full ſtufft, is laid upon <hi>Times</hi> aged back;</l>
+               <l>
+                  <hi>Time</hi> poures it out now in an angry mood,</l>
+               <l>That all their Knaveries may be underſtood.</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>R.</hi> S. Octob. 26. 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:154834:2"/>
+            <head>
+               <hi>The Devills White Boyes,</hi> OR, A mixture of Malicious Malignants with their much evill, and manifold practiſes againſt this King<g ref="char:EOLhyphen"/>dom and Parliament.</head>
+            <p>
+               <seg rend="decorInit">O</seg> 
+               <hi>England!</hi> how haſt thou been toſt and tumbled? VV<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at have thy ſufferings been ſince <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his warre be<g ref="char:EOLhyphen"/>gan? <hi>Atlas</hi> beares the world on his ſhoulders, and alas, ſinne hath laid ſorrow on thy back, thou haſt been, O <hi>England</hi> a long time nothing but a medly of confuſion, of murder, p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>under and Malignant wick<g ref="char:EOLhyphen"/>edneſſe, and haſt like a Porter, groaned under the bur<g ref="char:EOLhyphen"/>den of a S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ckful of knavery, eaſe now thy tyred ſhoul<g ref="char:EOLhyphen"/>ders, and poure out ſome of them to the view of the VVorld. Before the beginning of this Parliament, thou wer't divers wayes oppreſt, and many were thy greevances which thou didſt ſuffer under great men; and how did the <hi>Star-chamber</hi> domineere over the wrong'd Sub<g ref="char:EOLhyphen"/>iect? what corruption and Bribery was there in the Law? what buying and ſelling of Juſtice? This Lord, and that Lord muſt be ſollicited and ſued unto, even as ſat as <hi>Coventry,</hi> or the Devill of <hi>Dunſmore</hi> HEATH (now with the King) that it would pleaſe their Lordſhips to take a Bribe to doe a po<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs man Juſtice.</p>
+            <p>There was nothing but Playing, Dancing and Masking; the Common<g ref="char:EOLhyphen"/>wealth was a tree of Pleaſure, and whoring was the top branch, when the Queen-mother was here, and it is thought, the Biſhops eaſe and good fare, made them luſty, even to beget Baſtards, which they could doe with eaſe in their ſtudies; they lov'd pleaſure better then Preaching, and were the Hogges of our Iſrael, that fatted themſelves with the Acornes of Spirituall Livings; Then the Judges were the Kings Parrets, and cryed out, Ship-money,
+<pb n="3" facs="tcp:154834:2"/> but the Subiects regarded thoſe Judges no more then Parrats or pra<g ref="char:EOLhyphen"/>ting Sicophants; that with the Coblers Crow, were taught to cry, <hi>Ave Caeſar, God ſave the King;</hi> Amen cry'd the people, and deliver him from ſuch malig<g ref="char:EOLhyphen"/>nant Judges, that would make his Prerogative a Pick pocket; and a hand to ſqueeſe out the wealth of the Subieſt, according to the Princes pleaſure, that ſo our King might like a forreign, whom I could name, be <hi>Rex Aſſinorum,</hi> a King of Engliſh Aſſes, when the liberty of the Subiect ſhould be ſubiect to the Tyran<g ref="char:EOLhyphen"/>ny of his Prerogative. Theſe devices were then ſet on foot, and are now march<g ref="char:EOLhyphen"/>ing abroad on the Souldiers leggs in the Kings army: for what doth the Kings Army fight for? but firſt for an univerſall Tyrany, or unbounded Monarchy, that the free-borne <hi>Engliſh</hi> may ſubmit themſelv<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s to Royall ſlavery, in token whereof, the Schollers of <hi>Oxford</hi> not long before theſe warres began, made a Play called, <hi>The Royall Slave,</hi> as if they had Propheſyed, that all <hi>England</hi> ſhould be turn'd into a company of Royall ſlaves, and for this the Cavaliers fight, cut and kill the Kings Majeſties Subjects, that they may conquer us into ſervitude, and (if they could) beat us out of our Name of Subjects, into the ti<g ref="char:EOLhyphen"/>tle of ſlaves, but theres no doubt, wee ſhall be able to baffle ſuch knaves, that being pack't together, have ſhuffer'd in the King amongſt them, and by their evill Counſell, have made the King like an incenſed Lion againſt his peo<g ref="char:EOLhyphen"/>ple and Parliament. And what mad Lawes doe you imagine, if the Cavaliers were law-makers? It ſhould be lawfull in the firſt place to kill any man for his money, if it were demanded, <hi>cum privilegio,</hi> that is by vertue of the Kings Pre<g ref="char:EOLhyphen"/>rogative. And the ſubiects ſhould be turned into ſub-jacks, every great man ſhould have a Monopoly to maintaine his pride and luxury, the Kings <hi>Will</hi> ſhould be the liberty of the ſubiect, and my Lords will, and my Ladies will, and my Lords Secretaries will, and my Lords great Horſes will muſt be obeyed, ſo that <hi>Iack</hi> ſhould be in Office, and every Courtiers will, even to <hi>Will</hi> the Scul<g ref="char:EOLhyphen"/>lion in the Court Kitching, ſhould be a King, if the Malignants could have their will.</p>
+            <p>Then for Religion, we ſhould have ſuperſtition, Organs piping, Lawne<g ref="char:EOLhyphen"/>ſleeves preaching, Bulls of <hi>Baſon</hi> roaring, and ſinging Anthems, Little young Levites preaching Morallity inſtead of Divinity, and cringing and comple<g ref="char:EOLhyphen"/>menting in the Pulpit; fat Benefices, and leane Sermons, Dunces that could onely read Service, and pray for faire weather, ſhould be Country Curates, but 'tis no matter, this Religion would ſerve the Malignants, who are half Epi<g ref="char:EOLhyphen"/>cures, half Papiſts, and half Atheiſt, and a medly of mad wickedneſſe, they and the Devill have been in Counſell a great while, to deviſe a plot how to deſtroy all the honeſt Religious Proteſtants in <hi>England,</hi> and the Earl of <hi>Strafford,</hi> hee ſits in Counſell every day about it with <hi>Pluto, Aſhteroth,</hi> and the other Infer<g ref="char:EOLhyphen"/>nall Counſellors, but this Devilliſh <hi>Counſell-Table,</hi> cannot yet, nor never ſhall
+<pb n="4" facs="tcp:154834:3"/> be able to worke the ruine of the Proteſtants; No? yes the Cavaliers, the Iriſh, and Papiſts in the Kings Army will doe their endeavour, and with their ſwords mow them downe; the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es <hi>Digby,</hi> and <hi>Cottington,</hi> and a great many Lords and Knights that are Politick Divills, that could inſtruct the King to undoe the Common-wealth in the times of peace, and cannot they play the Divell in the time of warre? yes, yes, no doubt, they enticed the King the head of the Parliament from the members, onely to ſave their own heads, and will not they incenſe the King to kill his true Subiects under the title of Roundheads? Come, beleeve it, they are wicked enough, how can they fail in their plotts? when experience tells us, that Papiſts are full of black Invention and helliſh Plotts: what was the Gun-powder Plot, and <hi>Straffords</hi> plot; but what talke you of Plots? The Kings Majeſty will have it ſo, and blinde men in Divinity have the beſt eyes; they preach, Obey the King, and diſhonour God, but as for cruelty and cutting of throates I leave that to Prince <hi>Rupert,</hi> and will acknowledge that there was heeretofore no other purgatory but the Chancery. But what ſaid my Court Lady at <hi>Oxford,</hi> I love the Romane Ca<g ref="char:EOLhyphen"/>tholick Faith, for I would lie in bed and be religious, and confeſſe my ſinnes, and live in pompe and pleaſure, and know nothing but complementing in <hi>French,</hi> and praying in Latin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and hearing Maſſe, and when ſhee did goe to heaven, and v<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Lady <hi>Mary,</hi> and all the Papiſts that are in heaven, which are very few, for they doe not live after the rate of going to Heaven, unleſſe bloody murders, Idolatry, and killing of K<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs be the way to Heaven.</p>
+            <p>Theſe Malignants in my conceit are like thoſe pictures which have a dub<g ref="char:EOLhyphen"/>ble aſpect, one like a man, the other like a Devill, when they are to doe miſ<g ref="char:EOLhyphen"/>chiefe by flattering the King, or making the countrey people riſe in the Kings behalfe, then they put on ſmooth faces, and tell them of the Kings power and Prerogative, and that the Parliament is no Parliament, and therefore they may figh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt it, that the King is wronged, when indeed no body wrongs him but his malignant Councellours, that they fight for the Proteſtant Religion, that is for Poperie, and to defend the Lawes, that is the Law of tyrannicall ſlavery, which the King would impoſe upon his ſubjects, and that as the Locuſt de<g ref="char:EOLhyphen"/>voured the Land of Egipt, ſo they might ſwarm againe and devour us as they did in <hi>England</hi> in the times of peace, when all the Law was in the hand of the Iudge, and that hand muſt be filled with gold, or elſe no Law was to be had: but now for cunning wickedneſſe, which is the malignants other face, and wher<g ref="char:EOLhyphen"/>in he reſembles the Devill, conſider him as he was in the ſhape of <hi>Guído Faulx</hi> when he went with his darke lanthorn in his hand to ſet fire to the Gunpowder plot, and was taken in this Devills ſhape, and afterwards he and his Com<g ref="char:EOLhyphen"/>plotters were executed for traytors, but what a number of black malignants are there now in this Land, being a kind of ſmooth-faced machivilian Devills,
+<pb n="5" facs="tcp:154834:3"/> ſome with flattering bellows blowing the coales of diſſention betweene the King and Parliament; then there be horned malignant Devills that will roare, ſweare, domineer, uſe nothing but Dammees, and R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmees, as the Cavali<g ref="char:EOLhyphen"/>ers, who blaſpheme Heaven and Earth, and are ready to ſweare themſelves a live into Hell; then there are Iriſh Devills as hot as fire, and as bloody as <hi>Belzebub,</hi> theſe delight in firing of houſes, in killing women and Children, in tearing the fleſh off Proteſtants ſhoulders with hot Pincers, as they did in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> together with their horrible cruelties here in <hi>England,</hi> theſe are cruell Iriſh Divells, ſuch as doe not he idle in the Market-place, as the Divill did up<g ref="char:EOLhyphen"/>on his Elbow, becauſe he knew they would lie and ſweare faſt enough there, to damn themſelves; but theſe Malignants are no Dormant Devills, but active and ſtirring to doe miſchief; they proclaime his Majeſties will, and their own coun<g ref="char:EOLhyphen"/>ſell to be Oracles, and make the King beleeve that none have wit or underſtan<g ref="char:EOLhyphen"/>ding, but his Majeſties Cavaliers, and his new borne Councellors, and that none are ſo fit to make Prieſts and Jeſuites, as the <hi>Oxford</hi> Schollers; and that if his Majeſty print but a plauſible Oath, or a Proclamation, that all hee doth, is for the advancement of the Proteſtant Religion; is Maieſty may doe what he will in favour of Papiſts, and follow their Counſells, as long as the Malignants can but brand the Proteſtants with the name of Browniſt, Anabaptiſt, Separa<g ref="char:EOLhyphen"/>tiſt, or Round-heads, and then the Schollers of <hi>Oxford</hi> doe make Sermons be<g ref="char:EOLhyphen"/>fore the King of the fidelity of Papiſts, and how farre they are to be preferred above Puritanes and Proteſtants, whom they accoumpt religious Traytors; but O King, be rul'd no more by wicked Evill Counſellors, but follow the advice of Scripture wiſedome; If this Counſell, or this worke of the Parlia<g ref="char:EOLhyphen"/>ment be of men, it will come to naught, but if it be of God, ye cannot over<g ref="char:EOLhyphen"/>throw it, leaſt (happily) ye be found fighters againſt God. Behold, O King, but the diſpoſition of all theſe Eare wigs, that inſinuate into your Counſells; can diſſolute lawleſſe Cavaliers defend good Lawes? Or can Papiſts and A<g ref="char:EOLhyphen"/>theiſts fight for the true Proteſtant Religion, that were as ſtrange, as for Thornes to beare grapes, and Thiſtles to beare figgs, and as ſtrange it were, that Papiſts and Athieſts ſhould bear arms, to defend the Lawes, the Libertie of the Subject, and the Proteſtant Religion, the Divell they will; no, they fight to errect here the Kingdom of Darknes and Popery, that ſpirituall ambition may domineere flat-cap, and the four-corner'd Cap may fill the foure corners of the world full of knavery, there ſhould be then no ſchiſme, but a conſtant Lubberiſme in <hi>England,</hi> Biſhops, Deans, Doctors, Dunces, and Lubbers, that when they preach't (being very ſeldome) would, ſpeake with a hoarſe low voice, as if two or three ſteeples (having plutallity of Benifices) ſtuck in their throat; and when young VVives and wenches came to Confeſſion, how the <hi>Frier</hi> (like the Divell) would hugg them? would not this be a prety medly of
+<pb n="6" facs="tcp:154834:4"/> confuſion; nay, right and wrong ſhall be all one, fetch me ſuch a Subiects, head, 'tother ſubiects bed, and his table, nay plunder him to a Pewter ſpoone, if he will not ſubmit unto the Kings Prerogative; but baniſh conſcience, for miters and Biſhops can't indure him, Papiſts Prieſts can deviſe an eaſie Religi<g ref="char:EOLhyphen"/>on for my Court Lady, that ſhe may go to heaven on a bed of Roſes; &amp; never take the paines to come thither, ſhe is troubled with a looſeneſſe in the bottom of her belly, and cannot ſit out a long Sermon, nor make long Prayers, let her give a few ſcraps at her door, and a doal of Puddings at her death, and Angels ſhall carry her to Pope <hi>Iom.</hi> But let us let theſe ſhee fooles alone, theſe ſhee-Papiſts and malignant women, that will talke themſelues out of breath againſt the Parliament, but if they might have their wills, to beat and cuckold their husbands by act of Parliament, then, and not till then they would praiſe the Parliament.</p>
+            <p>But <hi>Time,</hi> ſince thou haſt thus far diſcribed the Malignants, goe on with boldneſſe, poure out the reſt of thy Sackfull of knavery, make the Proverbe true, <hi>ſpeak truth, &amp; ſhame the Divell,</hi> who ſtands behind thee, pulling down the ſack, to hinder the emptying of it; but out with the trumpery, the Knavery, the Popery, the Policy, the Malignancy, flattery, and all the cloſe wickedneſſe and impiety that hath been laid upon the back of <hi>Time,</hi> doe it briefly, roundly and plainly, and ſhake out of thy Sack, all varieties of Knavery.</p>
+            <p>VVell done <hi>Time,</hi> what comes out here firſt? <hi>Inprimis,</hi> hundred-pound baggs of money, and theſe were for Bribes for my Lords the Judges; and for Symony to procure a Benifice for Maſter <hi>Dunſcombe,</hi> a Levite of littell learn<g ref="char:EOLhyphen"/>ing, and leſſe Conſcience, whoſe Bribe being taken, hee was admitted to the Parſonage. O this money makes the Common-wealth a common whore, that lies down, and let fooles ride her, and deride her, while Knaves thriv'd, and honeſt men went to wrack, and every <hi>Iack</hi> might be made a Sir <hi>Iohn,</hi> for an hundred pounds, and to conclude, malignant hundred pounds have ſent hun<g ref="char:EOLhyphen"/>dred thouſands to the Divell.</p>
+            <p>VVhat comes next, Malignant pounds of Candles, made only for Politi<g ref="char:EOLhyphen"/>tions, to give them light how to ſtudy Plots againſt the Proteſtants; the Biſhop of <hi>Canterbury</hi> burnt twenty pounds of theſe candles, in ſtuddying how to bring in <hi>Popery;</hi> the Earl of <hi>Strafford</hi> ſtuddyed alwayes by one of theſe ma<g ref="char:EOLhyphen"/>lignant Candles, till at laſt, the Divell puff't out both the light of his Candle, and the light of his life both together; It is known that <hi>Diogines</hi> had a malig<g ref="char:EOLhyphen"/>nant candle in his Lanthorne, which gave him light to ſee how to rayle, and ſo Malignants, and all wicked men have ſome of theſe Candles, Prince <hi>Rupert</hi> never goes to bed, but the Devill lights him up a candle, that he may ſee to forget to ſay his prayers, and that he may not ſee his cruell plunderings; and one of theſe candles are continually burning before the Kings Maieſty, which
+<pb n="7" facs="tcp:154834:4"/> gives <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im ſuch a dim light, that he cannot ſee the way how to returne unto his Parliament<g ref="char:punc">▪</g>
+            </p>
+            <p>Next comes out the Papiſts Reliques, beads, croſſes, crucifixes, whips, papiſt bookes li<g ref="char:EOLhyphen"/>cenced by the Biſhop of <hi>Canterbury,</hi> fire and faggots, with which they intended to have burnt the Proteſtants, as they did in the dayes of Queen <hi>Mary;</hi> and our Queen <hi>Mary</hi> thought to have ſeen the like bon-fires in her dayes: Hold down the mouth of thy ſack, <hi>Time,</hi> what great gray thing is that come out tumbling? Oh, 'tis one of the Fryers that liu'd at Saint <hi>Jameſes,</hi> fatt and full of knavery and popery; bold, there's a Surpleſſe, and two payre of Lawn-Sleeves, a hood, a cope, and the poopiſh Service-boke that was ſent downe to the <hi>Scots,</hi> and a paire of Or<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gans, and a may-poole, and the skull of the Queen-mother, with a number of p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt skulls, that while they liv'd, were all Traytors to the Common-wealth of <hi>England.</hi>
+            </p>
+            <p>What's heere, Serpents? ſuch as <hi>Cottington</hi> and the reſt of the Kings evill Counſellors; and look heere are Eeles, Court Eeles, that would ſlip into any place of preferrment, but it is knowne, that thunder doth break the bedds of Eeles, and ſince the thunder of warre began, theſe malignant Eeles are all run unto the King, and doe live in the freſh waters at <hi>Oxford, Briſtoll,</hi> and other puts in the VVeſt Country.</p>
+            <p>Now comes forth Lawy<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs black-boxes, poore men brought theſe by their ſides out of the Country to <hi>London,</hi> and returned againe with nothing but penury and papers; ſhake them out <hi>Time,</hi> for when theſe times were, the Divell and the Lawyer were alwayes full of buſi<g ref="char:EOLhyphen"/>neſſe in the Terme time.</p>
+            <p>VVhats heere? a Lions skinne, with a Foxes tayl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to it, a very good Embleme, to ſhew that malignant Counſellours d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e make uſe of the Lions power, to back their malignant plotts, and thus the King is abuſed by the malignants pollicy.</p>
+            <p>But oh horrible and monſtrous, heer's a hand with a ſword in it, full of hearts, that have been run through by the Sword, and upon the point of the ſword is a Crowne, Oh I fear this ſword doth too evidently point out the King, who hath been abuſed by his Evill Counſel<g ref="char:EOLhyphen"/>lo s, his Cavaliers, and the Iriſh Rebells, who have run their ſwords through the hearts of many thouſand <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roteſtants, this is a bloody ſight ſhak't out of the Sack of <hi>Time.</hi>
+            </p>
+            <p>Here are more ſwords, all which have been guilty of <hi>Engliſh</hi> blood, not onely their hilts, but their blades are ſanguin'd over, they look red, and bluſh, that friends and brothers, ſhould with hearts of Iron, hard as their ſwords, kill one another; but now comes out of the ſack two bloody hands, the one holding a ſword, the other a Torch, and this doth ſignifie Prince <hi>Rupert,</hi> who is a bloody man of his hands, and doth ſhew continuall cruelty with fire and ſword, as he did at Bolton in Lane ſhire, and in many o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her places, which have ſuffered un<g ref="char:EOLhyphen"/>der this plundering Prince.</p>
+            <p>Heere comes out n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w a Box, full of Commiſſions to doe nothing; ſuch as the Duke of <hi>Buckingham</hi> had when he went to relieve the Proteſtants in <hi>Rochell,</hi> and <hi>Sicill,</hi> when he went <hi>Cales</hi> Voyage; and then here's another box, with the Kings Armes upon it, and in it there's the Commiſſion of Array, with a great many of the Kings Proteſtations, together with let<g ref="char:EOLhyphen"/>ters from he Queen, and how the Kings Cabbinetts of Jewells, being pawn'd, he hath no<g ref="char:EOLhyphen"/>thing left but a box fu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of papers not of <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oetry, but pollicy, and they muſt needs be ſtrong l<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nes, that are writ by a King and Queene, and their ſtrong malignants.</p>
+            <p>Now comes out tumbling together Ship-money, Coxcombes for earpet-Knights, ſuch as <hi>Jermyn</hi> and <hi>Endymion Porter,</hi> being new made Gentlemen, and now being malignants, are made I know not what: heere comes out Monopolies of white-ſoape, ragges, mary-bones, cardes, tobacco, and a pattent that ſhould have been granted for piſſing againſt the wall; m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nopolies and knaveties, come out here.</p>
+            <p>W<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ts heere? Oh 'tis the Biſhop of <hi>Canterburies</hi> new book, that he ſent to the Scots, being ſent to him from his Holineſſe of <hi>Rome,</hi> and contrived by the Pope, but the miſchief was, the biſhop of <hi>Canterbury</hi> could not get a cloſe cover for this booke, ſo that the Scots diſco<g ref="char:EOLhyphen"/>vered
+<pb n="8" facs="tcp:154834:5"/> his Popiſh purpoſe, and would rather ſee it burnt, then entertaine a leafe of it, to be read in their true reformed Churches.</p>
+            <p>Hold, hold, heer' a company of eyes and eares, and tongues poured out of the Sack of <hi>Time;</hi> why <hi>Time,</hi> wilt thou ſhame thy ſelf, could there ever be a Time ſo wicked, that the <hi>Star-chamber</hi> ſhould endeauour to pluck out the eyes of Religion, and to pick out the beſt men, to have them diſgraced by cutting off their eares nay, and by cutting out their tongues, that is, by ſil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ncing Godly Miniſters in the Dioceſſes where the biſhops reign'd, this was true enough.</p>
+            <p>But whats heere? <hi>Oxford</hi> Trumpery, and Knavery, Schollers flat-caps, and ſquare-caps, Divines gowns which the Schollers lay down, and while they drink healths to the confuſion of the <hi>Roundheads,</hi> they will cry; Lie there Di<g ref="char:EOLhyphen"/>vinity; theſe are pretty fellows to make Popiſh Prieſts of; it is known that <hi>Au<g ref="char:EOLhyphen"/>licus</hi> is one of theſe drunken fellows of <hi>All ſoules</hi> Colledge; but here comes out more, namely Chriſt-Church Organs, ſurpleſſes, Beades, Croſſes, Halfe-Crowns coyn'd out of <hi>Oxford</hi> Place, Cuckolds hornes made by the Cavaliers, Books of Popery, of con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uring and all ſorts of Malignant Pamphlets, long gownes, that cover the <hi>Oxford</hi> Levites, that have little Goſpel in them, with ſpeares, gunnes and Corſlets and Helmets, which the Biſhops and Schollers ware at <hi>Oxford,</hi> being better head pieces than their owne.</p>
+            <p>But oh what comes out now? the very worſt of all, the bottome of bot<g ref="char:EOLhyphen"/>tomleſſe Popery and cruelty, Heads, Armes, Leggs, feet, and whole quarters of men, women and children butcher'd by the Rebells in <hi>Ireland,</hi> and heere comes out tongs and Pincers wherewith being heated red-hot, they did pluck the fleſh from the bodies of the Proteſtants; Daggers with which they ſtab'd the Proteſtants, and let them bleed to death in their fight, Gridirons whereon they roaſted Proteſtants; with Halters, Clubs wherewith they knock out the braines of Proteſtants, long Knives where-with they ript Children out of their Mothers bellyes, and cut the throats of many thouſand Proteſtants, Axes, wherewith they quartered Proteſtants, cutting ſome into ſmall peices, but the burthen of varieties, of cruelt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es which <hi>Time</hi> hath born in <hi>England</hi> and <hi>Ireland,</hi> is inſufferable, the Papiſts Plots and projects innumerable the Malignants ma<g ref="char:EOLhyphen"/>lice and pollicy unchangeable; the Kings heart implacable, ſo that it would be a hard matter for <hi>Time</hi> to ſhake all Malignants out of his Sack, he is no ſmall-coal-man, for his ſack can never be emptyed, it having no bottom, but is as deep as the Sea of <hi>Rome,</hi> that have ſo many that help to fill it with knavery, as <hi>Biſhops, Malignants rotten Lords, Cavaliers, Pint-pot Preachers, Judges, Law<g ref="char:EOLhyphen"/>yers, Country Knig<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts, Malignant Majors of Towns, Briſtoll, Cottington, Prince Robert Mauris, Lords of Cumber-land, Bath, Southampton, Dorſet, Northamp<g ref="char:EOLhyphen"/>ton, Devenſhire Briſtoll, Barkſhire, Hopton, Capell,</hi> with the Lord <hi>Digby,</hi> and the Lord <hi>Devill, the grand Malignant.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
